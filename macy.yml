@@ -2,11 +2,14 @@ version: 1
 
 stack: "Hello world README"
 
-setup: []
+setup:
+  - echo "setup complete!"
 
-verify: []
+verify:
+  - echo "verify complete!"
 
-finalize: []
+finalize:
+  - echo "finalize complete!"
 
 guidance:
   - README.md
