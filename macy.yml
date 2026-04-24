@@ -1,0 +1,12 @@
+version: 1
+
+stack: "Hello world README"
+
+setup: []
+
+verify: []
+
+finalize: []
+
+guidance:
+  - README.md
