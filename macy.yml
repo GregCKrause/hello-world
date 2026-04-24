@@ -6,7 +6,7 @@ setup:
   - echo "setup complete!"
 
 verify:
-  nice: "verify complete!"
+  test: "verify complete!"
 
 finalize:
   - echo "finalize complete!"
